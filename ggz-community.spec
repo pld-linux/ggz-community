@@ -5,7 +5,7 @@ Name:		ggz-community
 Version:	0.0.14.1
 Release:	0.1
 License:	GPL v2+
-Group:		X11/Applications/Games
+Group:		Applications/WWW
 Source0:	http://mirrors.dotsrc.org/ggzgamingzone/ggz/%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	414201494a0c2b027d07a5836d9f9508
 URL:		http://www.ggzgamingzone.org/
